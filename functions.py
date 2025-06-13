@@ -1,14 +1,12 @@
-# def greet(name):
-#     print("hi ! "+ name + " how are you?")
 
-# n= input("enter your name:")
-# greet(n)    
+x= input(print)("enter your first number")
+y=input(print)("enter your second number")     
+
 def y(num):
-    if num>=0:
-        return num
-    else:
-        return -num
-x=y(-36) 
-print(x)
-
+  def x(num1):
+      if num==0:
+          return num
+      else:
+         m= (num+num1)  
+         print(m)
     
