@@ -51,7 +51,7 @@ class circle:
 
 
 Radius= int(input("The value for the radius  "))
-C= circle(Radius)
+
 C.peremeter()
 C.area() 
 
