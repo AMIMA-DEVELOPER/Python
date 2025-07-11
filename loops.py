@@ -16,8 +16,7 @@ for i in range (7,1,-1):
 def no_notes(a):
     x = [5000, 1000 , 500, 100, 50, 20 , 10]
     q= 0
-
-    for i in range(7):
+for i in range(7):
       C = x[i]
       q= a//C
       print("Notes of {} = {}". format(C,q))
