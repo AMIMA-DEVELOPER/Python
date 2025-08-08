@@ -9,6 +9,6 @@ class triangle:
 Area= int(input("The value for the area for the triangle:  "))
 
 T= triangle(base)
- 
+  
 T= triangle(height)
 T.area()
