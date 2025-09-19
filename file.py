@@ -19,5 +19,8 @@
 # else:
 #     print("The file doesnot exists.")
 
-import os
-os.remove("New file.TXT")
+# import os
+# os.remove("New file.TXT")
+
+import os 
+os.rename("Coding12.TXT","NEW.TXT")
